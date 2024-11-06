@@ -1,5 +1,5 @@
 # FairyCloud_AIR780E_4DB_PUBLIC
-AIR780E 4G智能远程通断器-硬件代码;此代码适配了嘉立创的 智能制造工作室 设计的“4G智能远程通断器”硬件；
+4G智能远程通断器-硬件代码;此代码适配了嘉立创的 智能制造工作室 设计的“4G智能远程通断器”硬件；
 
 
 硬件设计：来自嘉立创【智能制造工作室】（嘉立创EDA校园讲师），QQ 446819442 商务合作：gxbn_8848@163.com
@@ -41,7 +41,7 @@ FairyCloud_AIR780E_4DB_PUBLIC/code/
 [【4G智能远程通断器-嘉立创】](https://oshwhub.com/gbn2333/outdoor-camping-microwave-radar-alarm)
 
 ### 说明文档
-[【外部】AIR780E 4G智能远程通断器说明](https://gv9jqt8gpcb.feishu.cn/docx/Pkded6OrkoAWDoxVn93cZACmnpc)
+[【外部】4G智能远程通断器说明](https://gv9jqt8gpcb.feishu.cn/docx/Pkded6OrkoAWDoxVn93cZACmnpc)
 
 ### 实物图片
 ![image](https://github.com/fairycloudpublic/FairyCloud_AIR780E_4DB_PUBLIC/blob/main/photo1.png)
