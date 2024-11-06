@@ -1,5 +1,9 @@
 # FairyCloud_AIR780E_4DB_PUBLIC
-AIR780E4路通断器-硬件代码;欢迎交流：QQ群：630017549，个人微信：fairycloud2035
+AIR780E 4G智能远程通断器-硬件代码;此代码适配了嘉立创的 智能制造工作室 设计的“4G智能远程通断器”硬件；
+
+硬件设计：来自嘉立创【智能制造工作室】（嘉立创EDA校园讲师），QQ 446819442 商务合作：gxbn_8848@163.com
+
+硬件代码：来自本人【精灵物联网】，代码相关问题：QQ群：630017549，个人微信：fairycloud2035
 
 ## 代码说明
 ### 代码目录
@@ -31,10 +35,10 @@ FairyCloud_AIR780E_4DB_PUBLIC/code/
 ## 示例教程
 
 ### 实物演示
-[【AIR780EG定位器，小程序/web远程查看-哔哩哔哩】](https://b23.tv/LC0sZ2T)
+[【4G智能远程通断器-嘉立创】](https://oshwhub.com/gbn2333/outdoor-camping-microwave-radar-alarm)
 
 ### 说明文档
-[【外部】AIR780EG定位器说明](https://gv9jqt8gpcb.feishu.cn/docx/DkSqdCVv0otmb1xAD7Gc4iB8nfK)
+[【外部】AIR780E 4G智能远程通断器说明](https://gv9jqt8gpcb.feishu.cn/docx/Pkded6OrkoAWDoxVn93cZACmnpc)
 
 ### 实物图片
 ![image](https://github.com/fairycloudpublic/FairyCloud_AIR780E_4DB_PUBLIC/blob/main/photo1.png)
@@ -47,7 +51,9 @@ FairyCloud_AIR780E_4DB_PUBLIC/code/
 
 
 ## 版权说明
-仅供大家学习与参考，请勿用于非法用途，未经版权所有权人书面许可，不能自行用于商业用途。如需作商业用途，请与原作者联系。
+硬件设计-请咨询嘉立创【智能制造工作室】（嘉立创EDA校园讲师），QQ 446819442 商务合作：gxbn_8848@163.com
+
+硬件代码-仅供大家学习与参考，请勿用于非法用途，未经版权所有权人书面许可，不能自行用于商业用途。如需作商业用途，请与原作者联系。
 
 ### 许可协议
 许可协议 AGPL3.0协议
